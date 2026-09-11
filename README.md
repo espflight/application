@@ -6,6 +6,25 @@ ESPFlight Application provides the user interface for discovering, configuring, 
 
 The application works together with ESPFlight Firmware to provide a practical interface for setup, telemetry, flight control, and experimentation.
 
+## Current Release
+
+**ESPFlight Application v1.0.0** is the first public Android release.
+
+The release APK has been validated with ESPFlight Firmware v1.0.0 and the ESPFlight Hardware Reference v1.0.
+
+Official release files are available from the [Releases](https://github.com/espflight/application/releases) section of this repository and from the ESPFlight website.
+
+Expected v1.0.0 assets:
+
+- `ESPFlight_Application_v1.0.0.apk`
+- `ESPFlight_Application_v1.0.0.sha256`
+
+SHA-256 for the validated v1.0.0 APK:
+
+`936d1065f7f7a5efcbe303851db138e64e33983be88ee9dd29763d761a0d2025`
+
+Do not download or install repackaged versions of ESPFlight Application from untrusted sources.
+
 ## Features
 
 ESPFlight Application provides:
@@ -30,15 +49,7 @@ ESPFlight Application is designed for use with compatible versions of ESPFlight 
 
 Firmware and Application communication protocol versions must be compatible.
 
-Always use the latest compatible official release unless a specific firmware version requires otherwise.
-
-## Downloads
-
-Official releases of ESPFlight Application are distributed through ESPFlight's official distribution channels.
-
-Release files may also be provided through the **Releases** section of this repository.
-
-Do not download or install repackaged versions of ESPFlight Application from untrusted sources.
+For the v1.0 release baseline, use ESPFlight Application v1.0.0 with ESPFlight Firmware v1.0.0 and compatible ESPFlight-based hardware.
 
 ## Source Code
 
