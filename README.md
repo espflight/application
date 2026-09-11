@@ -8,13 +8,13 @@ The application works together with ESPFlight Firmware to provide a practical in
 
 ## Current Release
 
-**ESPFlight Application v1.0.0** is the first public Android release.
+**ESPFlight Application v1.0.0** has completed release validation and is ready for its first public Android release.
 
-The release APK has been validated with ESPFlight Firmware v1.0.0 and the ESPFlight Hardware Reference v1.0.
+The validated APK was tested with ESPFlight Firmware v1.0.0 and the ESPFlight Hardware Reference v1.0.
 
-Official release files are available from the [Releases](https://github.com/espflight/application/releases) section of this repository and from the ESPFlight website.
+Official release files will be published in the [Releases](https://github.com/espflight/application/releases) section of this repository and linked from the ESPFlight website.
 
-Expected v1.0.0 assets:
+Validated v1.0.0 assets:
 
 - `ESPFlight_Application_v1.0.0.apk`
 - `ESPFlight_Application_v1.0.0.sha256`
