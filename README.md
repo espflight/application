@@ -2,6 +2,8 @@
 
 **Official configuration and control application for the ESPFlight platform.**
 
+[Website](https://espflight.com) · [Build v1.0](https://github.com/espflight/docs/blob/main/BUILD_V1.0.md) · [Documentation](https://espflight.com/docs/) · [Firmware](https://github.com/espflight/firmware) · [Hardware Reference](https://github.com/espflight/hardware)
+
 ESPFlight Application provides the user interface for discovering, configuring, monitoring, and controlling compatible drones running ESPFlight Firmware.
 
 The application works together with ESPFlight Firmware to provide a practical interface for setup, telemetry, flight control, and experimentation.
@@ -14,6 +16,8 @@ The release APK was validated with ESPFlight Firmware v1.0.0 and the ESPFlight H
 
 Official release files are available from the [v1.0.0 Release](https://github.com/espflight/application/releases/tag/v1.0.0) and are linked from the ESPFlight website.
 
+**[Download ESPFlight Application v1.0.0 for Android](https://github.com/espflight/application/releases/download/v1.0.0/ESPFlight_Application_v1.0.0.apk)**
+
 Release assets:
 
 - `ESPFlight_Application_v1.0.0.apk`
@@ -24,6 +28,12 @@ SHA-256 for the validated v1.0.0 APK:
 `936d1065f7f7a5efcbe303851db138e64e33983be88ee9dd29763d761a0d2025`
 
 Do not download or install repackaged versions of ESPFlight Application from untrusted sources.
+
+## Start with ESPFlight v1.0
+
+For the complete path from hardware and firmware setup to validation and first controlled flight, see:
+
+**[Build ESPFlight v1.0](https://github.com/espflight/docs/blob/main/BUILD_V1.0.md)**
 
 ## Features
 
