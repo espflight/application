@@ -1,5 +1,7 @@
 # ESPFlight Application
 
+**Learn. Build. Fly.**
+
 **Official configuration and control application for the ESPFlight platform.**
 
 [Website](https://espflight.com) · [Build v1.0](https://github.com/espflight/docs/blob/main/BUILD_V1.0.md) · [Documentation](https://espflight.com/docs/) · [Firmware](https://github.com/espflight/firmware) · [Hardware Reference](https://github.com/espflight/hardware)
@@ -102,6 +104,6 @@ See [LICENSE.md](LICENSE.md) for the applicable terms.
 
 ## ESPFlight
 
-**Learn it. Build it. Change it. Create your own.**
+**Learn. Build. Fly.**
 
 https://espflight.com
