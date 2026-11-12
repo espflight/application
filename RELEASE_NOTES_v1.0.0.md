@@ -53,6 +53,6 @@ ESPFlight Application is proprietary software. Copyright © 2026 ESPFlight. All 
 
 The open-source licenses covering ESPFlight Firmware and the open-hardware license covering the ESPFlight Hardware Reference do not apply to the ESPFlight Application.
 
-**Learn it. Build it. Change it. Create your own.**
+**Learn. Build. Fly.**
 
 https://espflight.com
